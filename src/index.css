@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('./../public/IranSansBold.ttf') ;
+  }
+  
+  * {
+    font-family: 'MyCustomFont', sans-serif !important;
+  }
